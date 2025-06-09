@@ -4,9 +4,7 @@
 
 # Architecture diagram
 
-![archi](https://github.com/user-attachments/assets/e56c611a-c581-45df-92e4-2b4628f6dad6)
-
-
+![archi](https://github.com/user-attachments/assets/31ce7058-cf84-4278-bfa9-070ad7b722ca)
 
 Demo Video: [Coming Soon - Will be added here shortly]
 
