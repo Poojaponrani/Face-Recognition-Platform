@@ -8,4 +8,4 @@
 
 Demo Video: [Coming Soon - Will be added here shortly]
 
-This project is a part of a hackathon run by https://katomaran.com
+
